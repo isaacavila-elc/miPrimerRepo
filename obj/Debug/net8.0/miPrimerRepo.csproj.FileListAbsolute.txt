@@ -1,0 +1,15 @@
+/workspaces/miPrimerRepo/bin/Debug/net8.0/miPrimerRepo
+/workspaces/miPrimerRepo/bin/Debug/net8.0/miPrimerRepo.deps.json
+/workspaces/miPrimerRepo/bin/Debug/net8.0/miPrimerRepo.runtimeconfig.json
+/workspaces/miPrimerRepo/bin/Debug/net8.0/miPrimerRepo.dll
+/workspaces/miPrimerRepo/bin/Debug/net8.0/miPrimerRepo.pdb
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.AssemblyInfoInputs.cache
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.AssemblyInfo.cs
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.csproj.CoreCompileInputs.cache
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.sourcelink.json
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.dll
+/workspaces/miPrimerRepo/obj/Debug/net8.0/refint/miPrimerRepo.dll
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.pdb
+/workspaces/miPrimerRepo/obj/Debug/net8.0/miPrimerRepo.genruntimeconfig.cache
+/workspaces/miPrimerRepo/obj/Debug/net8.0/ref/miPrimerRepo.dll
